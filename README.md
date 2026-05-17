@@ -1,11 +1,13 @@
 # WSB-praca-grupowa
-WSB - LATO 2025/2026 - Zarządzanie projektem wdrożeniowym 
+
+Projekt realizowany w ramach przedmiotu **„Zarządzanie projektem wdrożeniowym”** na **Uniwersytecie WSB Merito w Gdańsku** w semestrze letnim **2025/2026**.
+
+Repozytorium służy do nauki pracy zespołowej, organizacji projektu oraz współpracy przy tworzeniu oprogramowania z wykorzystaniem narzędzi i praktyk stosowanych w rzeczywistych projektach IT.
 
 ## Spis treści
 - [Opis projektu](#opis-projektu)
 - [Technologie](#technologie)
 - [Jak uruchomić](#jak-uruchomić)
-- [Zespół](#zespół)
 
 ### Opis projektu
 Celem projektu jest stworzenie prostej strony internetowej. Projekt jest realizowany zespołowo jako ćwiczenie pracy grupowej na platformie GitHub.
