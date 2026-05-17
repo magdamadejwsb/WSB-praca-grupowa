@@ -118,7 +118,7 @@ to korzystaj z nich przed wysłaniem zmian.
 
 ---
 
-# 🛠 Workflow pracy
+# Workflow pracy
 
 ```txt
 1. Fork / clone repo
@@ -128,12 +128,12 @@ to korzystaj z nich przed wysłaniem zmian.
 5. Push branch
 6. Otwórz Pull Request
 7. Wprowadź poprawki po review
-8. Merge 🚀
+8. Merge 
 ```
 
 ---
 
-# 📚 Cel projektu
+# Cel projektu
 
 Projekt ma pomóc w nauce:
 - Git workflow,
